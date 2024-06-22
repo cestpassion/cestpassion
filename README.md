@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/cestpassion">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cestpassion&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cestpassion&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
 </div>
 
 <div style="display: inline_block"><br>
