@@ -11,8 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cestpassion&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
 </div>
 
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg">
