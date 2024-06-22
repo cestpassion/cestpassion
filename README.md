@@ -1,7 +1,7 @@
-> ## Hi! I'm Bruna! 👋
+> ## Olá!👋 Eu sou a Bruna e seja bem vindo ao meu repositório! 
 
-- 🎓 I'm currently in the first semester of my Bachelor's degree in Computer Science at PUC Minas University.
-- 📚 Always seeking to learn more about technology and computing!
+- 🎓 Atualmente estou cursando Ciência da Computação na PUC Minas.
+- 📚 Sempre buscando aprender mais sobre tecnologia e computação!
       
 ##
 
