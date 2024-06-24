@@ -1,7 +1,7 @@
 # Olá!👋 Eu sou a Bruna e seja bem vindo ao meu repositório! 
 
 - 🎓 Atualmente, estou cursando o Bacharelado em Ciência da Computação na PUC Minas.
-- 📚 Sempre buscando aprender mais sobre tecnologia e computação!
+- 📚 Sempre em busca de aprender mais sobre tecnologia e computação!
       
 ##
 
