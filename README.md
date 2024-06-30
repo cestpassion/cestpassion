@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Bruna, and welcome to my repository!
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Computer Science at PUC Minas.
-- 📚 Always eager to learn more about technology and computing!
+- 📚 Always seeking to learn more about technology and computing!
       
 ##
 
