@@ -1,7 +1,7 @@
-# Olá!👋 Eu sou a Bruna e seja bem vindo ao meu repositório! 
+# Hello! 👋 I'm Bruna, and welcome to my repository!
 
-- 🎓 Atualmente, estou cursando o Bacharelado em Ciência da Computação na PUC Minas.
-- 📚 Sempre em busca de aprender mais sobre tecnologia e computação!
+- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science at PUC Minas.
+- 📚 Always eager to learn more about technology and computing!
       
 ##
 
@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 ##
 
-> ### Contato/Redes Sociais:
+> ### Contact/Social Media:
 
 <div> <br>
   <a href="https://www.linkedin.com/in/bruna-furtado-da-fonseca-27a218306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
