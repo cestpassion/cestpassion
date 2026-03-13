@@ -32,6 +32,30 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Python" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Node" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" />
+  <img align="center" alt="Haskell" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/Haskell-Dark.svg" />
+  <img align="center" alt="Git" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
+  <img align="center" alt="Linux" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="30"
+src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
+  <img align="center" alt="MySQL" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
+  <img align="center" alt="Postman" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" />
+  <img align="center" alt="MongoDB" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" />
+  <img align="center" alt="Microsoft Azure" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg" />
+  <img align="center" alt="AWS" height="30" width="40"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" />
+  <img align="center" alt="n8n" height="30" width="30"
+src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" />
+  <img align="center" alt="Spring Boot" height="30" width="30"
+src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" />
 </div>
 
 ##
